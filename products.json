@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1,
+        "name": " LD01 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": " LD02 LOUNGE CHAIR",
+        "price": 250,
+        "image": "image/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": " LD03 LOUNGE CHAIR",
+        "price": 290,
+        "image": "image/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": " LD04 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/4.jpeg"
+    },
+    {
+        "id": 5,
+        "name": " LD05 LOUNGE CHAIR",
+        "price": 300,
+        "image": "image/5.jpeg"
+    },
+    {
+        "id": 6,
+        "name": " LD06 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/6.jpeg"
+    },
+    {
+        "id": 7,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/7.jpeg"
+    },
+    {
+        "id": 8,
+        "name": " LD08 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/8.jpeg"
+    },
+    {
+        "id": 9,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/9.jpeg"
+    },
+    {
+        "id": 10,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/10.webp"
+    },
+    {
+        "id": 11,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/11.jpg"
+    },
+    {
+        "id": 12,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/12.jpg"
+    },
+    {
+        "id": 13,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/13.jpg"
+    },
+    {
+        "id": 14,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/14.jpg"
+    },
+    {
+        "id": 15,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/15.jpg"
+    },
+    {
+        "id": 16,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/16.jpg"
+    },
+    {
+        "id": 17,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/17.jpg"
+    },
+    {
+        "id": 18,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/18.jpg"
+    },
+    {
+        "id": 19,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/19.webp"
+    },
+    {
+        "id": 20,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/20.webp"
+    },
+    {
+        "id": 21,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/21.jpeg"
+    },
+    {
+        "id": 22,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/22.webp"
+    },
+    {
+        "id": 23,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/23.jpeg"
+    },
+    {
+        "id": 24,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/24.webp"
+    },
+    {
+        "id": 25,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/25.webp"
+    },
+    {
+        "id": 26,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/26.jpg"
+    },
+    {
+        "id": 27,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/27.jpg"
+    },
+    {
+        "id": 28,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/28.jpg"
+    },
+    {
+        "id": 29,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/29.jpg"
+    },
+    {
+        "id": 30,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/30.jpg"
+    },
+    {
+        "id": 31,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/31.jpg"
+    },
+    {
+        "id": 32,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/32.jpg"
+    },
+    {
+        "id": 33,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/33.jpg"
+    },
+    {
+        "id": 34,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/34.jpg"
+    },
+    {
+        "id": 35,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/35.jpg"
+    },
+    {
+        "id": 36,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/36.jpg"
+    },
+    {
+        "id": 37,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/37.jpg"
+    },
+    {
+        "id": 38,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/38.jpg"
+    },
+    {
+        "id": 39,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/39.jpg"
+    },
+    {
+        "id": 40,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/40.jpg"
+    },
+    {
+        "id": 41,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/41.jpg"
+    },
+    {
+        "id": 42,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/42.webp"
+    },
+    {
+        "id": 43,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/43.webp"
+    },
+    {
+        "id": 44,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/44.webp"
+    },
+    {
+        "id": 45,
+        "name": " LD07 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/45.webp"
+    }
+]
